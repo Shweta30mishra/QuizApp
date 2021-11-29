@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">प्रश्नोत्तरी ऐप</string>
+    <string name="question1">टोरंटो कनाडा की राजधानी है</string>
+    <string name="question2">मॉन्ट्रियल ओटावा की राजधानी शहर है</string>
+    <string name="question3">मुंबई भारत की राजधानी है</string>
+    <string name="question4"> दुबई यूएई की राजधानी है</string>
+    <string name="question5">न्यूयॉर्क अमेरिका की राजधानी है</string>
+    <string name="question6">अबू धाबी नाइजीरिया की राजधानी है</string>
+    <string name="question7">अफगानिस्तान की राजधानी काबुल है</string>
+    <string name="question8">पेरिस फ्रांस की राजधानी है</string>
+    <string name="question9">टोक्यो जापान की राजधानी है</string>
+    <string name="question10">किंग्स्टन अफ्रीका की राजधानी है</string>
+    <string name="true_button">सही</string>
+    <string name="false_button">गलत</string>
+</resources>

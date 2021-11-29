@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Item1" android:title="Get the Average"></item>
+    <item android:id="@+id/Item2" android:title="Select the number of question"></item>
+    <item android:id="@+id/Item3" android:title="Reset the saved Result"></item>
+    <item android:id="@+id/Item4" android:title="Used add question"></item>
+
+</menu>

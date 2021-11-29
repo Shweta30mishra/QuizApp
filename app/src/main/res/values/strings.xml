@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="question1">Toronto is the capital city of Canada</string>
+    <string name="question2">Montreal is the capital city of Ottawa</string>
+    <string name="question3">Mumbai  is the capital city of India</string>
+    <string name="question4"> Dubai is the capital city of UAE</string>
+    <string name="question5">Newyork is the capital city of America</string>
+    <string name="question6">Abu Dhabi is the capital city of Nigeria</string>
+    <string name="question7">Kabul is the capital city of Afganistan</string>
+    <string name="question8">Paris is the capital city of France</string>
+    <string name="question9">Toykyo is the capital city of Japan</string>
+    <string name="question10">Kingston is the capital city of Africa</string>
+
+    <string name="true_button">true</string>
+    <string name="false_button">False</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
